@@ -1,0 +1,15 @@
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\bin\Debug\net9.0\el-guerrero.exe
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\bin\Debug\net9.0\el-guerrero.deps.json
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\bin\Debug\net9.0\el-guerrero.runtimeconfig.json
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\bin\Debug\net9.0\el-guerrero.dll
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\bin\Debug\net9.0\el-guerrero.pdb
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.AssemblyInfoInputs.cache
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.AssemblyInfo.cs
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.csproj.CoreCompileInputs.cache
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.sourcelink.json
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.dll
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\refint\el-guerrero.dll
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.pdb
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\el-guerrero.genruntimeconfig.cache
+C:\Users\PC FACTOR BLACK\Documents\Escuela\2DO CUATRI\Lenguajes orientados a objetos\el-guerrero\obj\Debug\net9.0\ref\el-guerrero.dll
